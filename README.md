@@ -20,6 +20,7 @@ A small 2D game developed in C using the MiniLibX graphics library. The objectiv
 	* `P`: Player starting position.
 	* `C`: Collectible item.
 	* `E`: Exit (opens only after collecting all items).
+	* `M`: Enemy (kills the player on contact).
 
 ## Map Configuration
 
